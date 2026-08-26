@@ -1,6 +1,6 @@
 ## <h1 align="center">Bonjour👋, Je suis Emeline</h1>
 <h3 align="center">Une passionnée de programmation en Vendée</h3>
-
+ 
 - 🏫 Je suis en **Terminale générale**
 
 - 🧪 En **première générale** j'avais comme spécialités **Physique Chimie, NSI et Maths**
