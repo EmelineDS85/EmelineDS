@@ -1,17 +1,17 @@
 ## <h1 align="center">Bonjour👋, Je suis Emeline</h1>
 <h3 align="center">Une passionnée de programmation en Vendée</h3>
 
-- 🔭 Je suis en **Terminale générale**
+- 🏫 Je suis en **Terminale générale**
 
-- 🌱 En **première générale** j'avais comme spécialités **Science Physique, NSI et Maths**
+- 🧪 En **première générale** j'avais comme spécialités **Physique Chimie, NSI et Maths**
 
-- 👯 J'ai gardé **NSI et Maths**
+- 💻 J'ai gardé **NSI et Maths**
 
-- 🤝 J'avais l'option **Théâtre**
+- 🎭 J'avais l'option **Théâtre**
 
-- 💬 Maintenant j'ai l'option **Maths Experte**
+- ➗ Maintenant j'ai l'option **Maths Experte**
 
-- ⚡ Je fais des activités extra scolaires tel que **le piano et la danse**
+- 🎹 Je fais des activités extra scolaires tel que **le piano et la danse**
 
 - 📫 Vous pouvez me contactez via mon email **EmelineDS@orange.fr**
 
