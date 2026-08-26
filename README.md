@@ -13,7 +13,7 @@
 
 - 🎹 Je fais des activités extra scolaires tel que **le piano et la danse**
 
-- 📫 Vous pouvez me contactez via mon email **EmelineDS@orange.fr**
+- 📫 Vous pouvez me contactez via mon email **...**
 
 
 <h3 align="left">Les outils et languages de programation que j'utilisent :</h3>
